@@ -1,0 +1,2 @@
+makapuu,80
+sandys,100
